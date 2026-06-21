@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="24" ry="24" fill="#ff0000"/>
+  <polygon points="45,35 85,60 45,85" fill="#fff"/>
+  <text x="60" y="110" font-family="Arial, sans-serif" font-size="16" fill="#fff" text-anchor="middle">Ru</text>
+</svg>
